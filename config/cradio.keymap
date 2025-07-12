@@ -76,7 +76,7 @@
             &kp GRAVE  &kp LBRC   &kp LBKT   &kp LPAR   &kp EQUAL     &kp MINUS   &kp RPAR   &kp RBKT   &kp RBRC   &kp SQT
         //├──────────┼──────────┼──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┼──────────┼──────────┤
         //│  SHIFT   │  CTRL    │  ALT     │  SUPER   │   \ |    │   │  <TAB>   │  SUPER   │  ALT     │   CTRL   │  SHIFT   │
-           &kp LSHFT  &kp LCTRL   &kp LALT   &kp LGUI   &kp BLSH       &kp TAB    &kp LGUI   &kp RALT   &kp RCTRL  &kp RSHFT
+           &kp LSHFT  &kp LCTRL   &kp LALT   &kp LGUI   &kp BSLH       &kp TAB    &kp LGUI   &kp RALT   &kp RCTRL  &kp RSHFT
         //╰──────────┴──────────┴──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┴──────────┴──────────╯
                                              &trans     &trans         &trans     &trans
         //                                 ╰──────────┴──────────╯   ╰──────────┴──────────╯
