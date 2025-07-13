@@ -19,7 +19,6 @@
             quick-tap-ms = <150>;
             require-prior-idle-ms = <100>;
             bindings = <&kp>, <&kp>;
-            display-name = "Home-Row-Mod";
         };
         lt: layer_tap {
             compatible = "zmk,behavior-hold-tap";
@@ -29,7 +28,6 @@
             quick-tap-ms = <150>;
             require-prior-idle-ms = <100>;
             bindings = <&mo>, <&kp>;
-            dispay-name = "Layer-Tap";
         };
     };
 
